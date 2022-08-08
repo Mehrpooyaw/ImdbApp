@@ -15,4 +15,5 @@ Android 10                      |  Android 11                    | Android 12
 Android 13                      |  Android 14                    | Android 15
 ![Screenshot_1659977939_samsung-galaxys20ultra-cosmicgrey-portrait](https://user-images.githubusercontent.com/85585949/183493731-11b1f72c-1bd2-4650-abe4-f32c8a611c9d.png)|![Screenshot_1659978024_samsung-galaxys20ultra-cosmicgrey-portrait](https://user-images.githubusercontent.com/85585949/183495188-c14663dc-0ff4-491a-9101-4f0d7a5ddbcf.png)|![Screenshot_1659978042_samsung-galaxys20ultra-cosmicgrey-portrait](https://user-images.githubusercontent.com/85585949/183493749-6fb3b327-fd62-4856-8588-c052f6e8e2da.png)
 Android 16                      |  Android 17                    | Android 18
-![Screenshot_1659978072_samsung-galaxys20ultra-cosmicgrey-portrait](https://user-images.githubusercontent.com/85585949/183495088-d1fe2940-4247-49ac-b43a-a9eade2c3f84.png)
+![Screenshot_1659978072_samsung-galaxys20ultra-cosmicgrey-portrait](https://user-images.githubusercontent.com/85585949/183495088-d1fe2940-4247-49ac-b43a-a9eade2c3f84.png)|![Screenshot_1659986400_samsung-galaxys20ultra-cosmicgrey-portrait](https://user-images.githubusercontent.com/85585949/183497465-88d9b7dc-8fbc-40ac-a759-952d994c2444.png)
+
