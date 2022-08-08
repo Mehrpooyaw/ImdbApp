@@ -1,6 +1,6 @@
 # ImdbApp
 
-# Written in Kotlin, technologies and libraries used in this app:
+## Written in Kotlin, technologies and libraries used in this app:
 MVI Architecture, Kotlin Flows, Jetpack Compose, Retrofit, Hilt, Room, Accompanist libraries, DataStore, and more...
 
 Android 1                      |  Android 2                    | Android 3                  
